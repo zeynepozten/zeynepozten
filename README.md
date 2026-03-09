@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=160&section=header&text=Zeynep%20Özten&fontSize=48&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
 
-### Industrial Engineer | Machine Learning
+### IE | Data Science | Machine Learning
 *Systems thinker. Model builder.*
 
 </div>
