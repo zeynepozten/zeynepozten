@@ -27,9 +27,9 @@ quality control in manufacturing, disease detection in healthcare, and demand pr
 
 | Project | What & Why | Stack |
 |---|---|---|
-| [🏭 Casting Defect Detection](https://github.com/zeynepoz03/casting-defect-detection) | CNN-based surface defect classifier for industrial parts | PyTorch · OpenCV · CNN |
-| [👁️ Retinal Disease Classification](https://github.com/zeynepoz03/retinal-disease-classification) | Multi-label retinal condition detection from fundus images | PyTorch · EfficientNet-B0 |
-| [📦 Demand Forecasting](https://github.com/zeynepoz03/demand-forecasting) | End-to-end pipeline: classical ML vs DL for retail demand | Optuna · RF · TensorFlow |
+| [🏭 Casting Defect Detection](https://github.com/zeynepozten/casting-defect-detection) | CNN-based surface defect classifier for industrial parts | PyTorch · OpenCV · CNN |
+| [👁️ Retinal Disease Classification](https://github.com/zeynepozten/retinal-disease-classification) | Multi-label retinal condition detection from fundus images | PyTorch · EfficientNet-B0 |
+| [📦 Demand Forecasting](https://github.com/zeynepozten/demand-forecasting) | End-to-end pipeline: classical ML vs DL for retail demand | Optuna · RF · TensorFlow |
 
 <br/>
 <div align="center">
